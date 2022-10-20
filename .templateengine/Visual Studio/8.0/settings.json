@@ -4,115 +4,115 @@
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "e59a85bb-919e-4e1e-87af-6115b1faa522",
+      "MountPointId": "a6738b92-50c9-4f4c-928c-cae194801d3c",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/Microsoft.DotNet.Common.ProjectTemplates.1.x.1.0.0-beta2-20170430-208.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "b56da0d9-69b7-4269-a6bc-b9c27f022a86",
+      "MountPointId": "b2b9ea42-93ce-4fd8-903b-9056c95a613f",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/Microsoft.DotNet.Test.ProjectTemplates.1.x.1.0.0-beta2-20170430-208.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "00c0c430-d049-4e13-adb6-ca0ae49a9eca",
+      "MountPointId": "a8da93a1-1d01-43bb-909a-1742536df732",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/Microsoft.DotNet.Common.ProjectTemplates.2.0.1.0.0-beta2-20170727-301.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "8bc41b87-552b-4625-9563-a056eb152324",
+      "MountPointId": "58be442f-4524-4be9-b68a-ced605ba8738",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/Microsoft.DotNet.Test.ProjectTemplates.2.0.1.0.0-beta2-20170727-301.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "MountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/Microsoft.DotNet.Web.ProjectTemplates.2.0.1.0.0-beta2-20170727-301.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "16a8d5ce-713d-4b05-b802-a199af64a0f4",
+      "MountPointId": "dff53e2d-905a-4834-8742-f685ef47cc32",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/Microsoft.DotNet.Web.ProjectTemplates.1.x.1.0.0-beta2-20170430-208.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "7957d08e-c24d-43ab-bc30-9fe7018b1e59",
+      "MountPointId": "85f24851-99cb-4463-b70f-46aed120f289",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/projectTemplates.3.1.1518.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "2d0844a0-62e8-4f63-bd12-fddcefe12286",
+      "MountPointId": "546a7004-48b7-4e89-a1dd-e610c0008c05",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/microsoft.dotnet.common.projecttemplates.3.1.3.1.20.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "7b1b6c86-f0a4-4997-abac-d0ad2265acf5",
+      "MountPointId": "c8be6191-5067-4aa0-b072-2d29616b162e",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/nunit3.dotnetnew.template.1.7.2.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "e8bc05aa-53fc-4c56-8d1e-af9efa603c04",
+      "MountPointId": "9601de3e-257f-45db-b6bd-e9b8a4c82471",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/microsoft.dotnet.test.projecttemplates.3.1.1.0.2-beta4.20176.1.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "accc281e-a41f-40b7-826a-46f7ff9a76e5",
+      "MountPointId": "6974f59e-8116-4494-b189-ab92daeada13",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/microsoft.dotnet.common.projecttemplates.5.0.5.0.402.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "9575bfcb-ff57-4518-b564-3fcc7273a969",
+      "MountPointId": "ce8b4973-5667-4dc5-b13d-f2035d0ef192",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/nunit3.dotnetnew.template.1.8.1.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "MountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/microsoft.dotnet.test.projecttemplates.5.0.1.0.2-beta4.21268.1.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "MountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/microsoft.dotnet.web.projecttemplates.5.0.5.0.11.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "a29e2a38-4454-4f5c-a0f9-a72cb9487b15",
+      "MountPointId": "2302ff24-8b68-4f96-ae73-30827334a2e4",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/microsoft.dotnet.web.spa.projecttemplates.5.0.5.0.11.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "MountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/microsoft.dotnet.web.projecttemplates.3.1.3.1.20.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "debf4267-1465-49ca-ace3-b467f1f8ae28",
+      "MountPointId": "b4c65ba8-7937-421c-bacd-39efd10d1560",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/microsoft.aspnetcore.components.webassembly.templates.3.2.1.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "9d6a0525-0dfe-47eb-a0fd-2ff47047f612",
+      "MountPointId": "1ea346f7-250b-42ab-b32a-9091882f91fd",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/microsoft.dotnet.web.spa.projecttemplates.3.1.3.1.20.nupkg"
     },
     {
       "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
       "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
-      "MountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "MountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Place": "/Users/wemabank/.templateengine/Visual Studio/8.0/packages/itemTemplates.3.1.1518.nupkg"
     }
   ],

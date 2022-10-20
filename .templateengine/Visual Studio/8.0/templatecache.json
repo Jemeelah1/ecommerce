@@ -1,7 +1,7 @@
 {
   "TemplateInfo": [
     {
-      "ConfigMountPointId": "e59a85bb-919e-4e1e-87af-6115b1faa522",
+      "ConfigMountPointId": "a6738b92-50c9-4f4c-928c-cae194801d3c",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -90,7 +90,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e59a85bb-919e-4e1e-87af-6115b1faa522",
+      "ConfigMountPointId": "a6738b92-50c9-4f4c-928c-cae194801d3c",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -173,7 +173,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e59a85bb-919e-4e1e-87af-6115b1faa522",
+      "ConfigMountPointId": "a6738b92-50c9-4f4c-928c-cae194801d3c",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -262,7 +262,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e59a85bb-919e-4e1e-87af-6115b1faa522",
+      "ConfigMountPointId": "a6738b92-50c9-4f4c-928c-cae194801d3c",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -331,7 +331,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e59a85bb-919e-4e1e-87af-6115b1faa522",
+      "ConfigMountPointId": "a6738b92-50c9-4f4c-928c-cae194801d3c",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -400,7 +400,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e59a85bb-919e-4e1e-87af-6115b1faa522",
+      "ConfigMountPointId": "a6738b92-50c9-4f4c-928c-cae194801d3c",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -469,7 +469,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b56da0d9-69b7-4269-a6bc-b9c27f022a86",
+      "ConfigMountPointId": "b2b9ea42-93ce-4fd8-903b-9056c95a613f",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -544,7 +544,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b56da0d9-69b7-4269-a6bc-b9c27f022a86",
+      "ConfigMountPointId": "b2b9ea42-93ce-4fd8-903b-9056c95a613f",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -619,7 +619,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b56da0d9-69b7-4269-a6bc-b9c27f022a86",
+      "ConfigMountPointId": "b2b9ea42-93ce-4fd8-903b-9056c95a613f",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -694,7 +694,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b56da0d9-69b7-4269-a6bc-b9c27f022a86",
+      "ConfigMountPointId": "b2b9ea42-93ce-4fd8-903b-9056c95a613f",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -769,7 +769,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b56da0d9-69b7-4269-a6bc-b9c27f022a86",
+      "ConfigMountPointId": "b2b9ea42-93ce-4fd8-903b-9056c95a613f",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -844,7 +844,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b56da0d9-69b7-4269-a6bc-b9c27f022a86",
+      "ConfigMountPointId": "b2b9ea42-93ce-4fd8-903b-9056c95a613f",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -919,7 +919,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "00c0c430-d049-4e13-adb6-ca0ae49a9eca",
+      "ConfigMountPointId": "a8da93a1-1d01-43bb-909a-1742536df732",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -1001,7 +1001,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "00c0c430-d049-4e13-adb6-ca0ae49a9eca",
+      "ConfigMountPointId": "a8da93a1-1d01-43bb-909a-1742536df732",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -1083,7 +1083,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "00c0c430-d049-4e13-adb6-ca0ae49a9eca",
+      "ConfigMountPointId": "a8da93a1-1d01-43bb-909a-1742536df732",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -1165,7 +1165,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "00c0c430-d049-4e13-adb6-ca0ae49a9eca",
+      "ConfigMountPointId": "a8da93a1-1d01-43bb-909a-1742536df732",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -1233,7 +1233,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "00c0c430-d049-4e13-adb6-ca0ae49a9eca",
+      "ConfigMountPointId": "a8da93a1-1d01-43bb-909a-1742536df732",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -1301,7 +1301,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "00c0c430-d049-4e13-adb6-ca0ae49a9eca",
+      "ConfigMountPointId": "a8da93a1-1d01-43bb-909a-1742536df732",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -1369,7 +1369,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8bc41b87-552b-4625-9563-a056eb152324",
+      "ConfigMountPointId": "58be442f-4524-4be9-b68a-ced605ba8738",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -1443,7 +1443,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8bc41b87-552b-4625-9563-a056eb152324",
+      "ConfigMountPointId": "58be442f-4524-4be9-b68a-ced605ba8738",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -1517,7 +1517,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8bc41b87-552b-4625-9563-a056eb152324",
+      "ConfigMountPointId": "58be442f-4524-4be9-b68a-ced605ba8738",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -1591,7 +1591,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8bc41b87-552b-4625-9563-a056eb152324",
+      "ConfigMountPointId": "58be442f-4524-4be9-b68a-ced605ba8738",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -1665,7 +1665,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8bc41b87-552b-4625-9563-a056eb152324",
+      "ConfigMountPointId": "58be442f-4524-4be9-b68a-ced605ba8738",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -1739,7 +1739,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8bc41b87-552b-4625-9563-a056eb152324",
+      "ConfigMountPointId": "58be442f-4524-4be9-b68a-ced605ba8738",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -1813,7 +1813,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "ConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -1889,7 +1889,7 @@
       "ConfigPlace": "/content/EmptyWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "HostConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "HostConfigPlace": "/content/EmptyWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/template-3pn",
       "BaselineInfo": {},
@@ -1897,7 +1897,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "ConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -1965,7 +1965,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "ConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -2133,7 +2133,7 @@
       "ConfigPlace": "/content/RazorPagesWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "HostConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "HostConfigPlace": "/content/RazorPagesWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/template-3pn",
       "BaselineInfo": {},
@@ -2141,7 +2141,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "ConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -2308,7 +2308,7 @@
       "ConfigPlace": "/content/StarterWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "HostConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "HostConfigPlace": "/content/StarterWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/template-3pn",
       "BaselineInfo": {},
@@ -2316,7 +2316,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "ConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -2384,7 +2384,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "ConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -2522,7 +2522,7 @@
       "ConfigPlace": "/content/WebApi-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "HostConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "HostConfigPlace": "/content/WebApi-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/template-3pn",
       "BaselineInfo": {},
@@ -2530,7 +2530,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "d58b5fba-60c4-4a90-9545-6abf04eec748",
+      "ConfigMountPointId": "2b107ea7-124d-40e5-acbe-d32dba64abce",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -2598,7 +2598,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "16a8d5ce-713d-4b05-b802-a199af64a0f4",
+      "ConfigMountPointId": "dff53e2d-905a-4834-8742-f685ef47cc32",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -2681,7 +2681,7 @@
       "ConfigPlace": "/content/EmptyWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "16a8d5ce-713d-4b05-b802-a199af64a0f4",
+      "HostConfigMountPointId": "dff53e2d-905a-4834-8742-f685ef47cc32",
       "HostConfigPlace": "/content/EmptyWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/template-3pn",
       "BaselineInfo": {},
@@ -2689,7 +2689,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "16a8d5ce-713d-4b05-b802-a199af64a0f4",
+      "ConfigMountPointId": "dff53e2d-905a-4834-8742-f685ef47cc32",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -2764,7 +2764,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "16a8d5ce-713d-4b05-b802-a199af64a0f4",
+      "ConfigMountPointId": "dff53e2d-905a-4834-8742-f685ef47cc32",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -2906,7 +2906,7 @@
       "ConfigPlace": "/content/StarterWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "16a8d5ce-713d-4b05-b802-a199af64a0f4",
+      "HostConfigMountPointId": "dff53e2d-905a-4834-8742-f685ef47cc32",
       "HostConfigPlace": "/content/StarterWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/template-3pn",
       "BaselineInfo": {},
@@ -2914,7 +2914,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "16a8d5ce-713d-4b05-b802-a199af64a0f4",
+      "ConfigMountPointId": "dff53e2d-905a-4834-8742-f685ef47cc32",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -2983,7 +2983,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "16a8d5ce-713d-4b05-b802-a199af64a0f4",
+      "ConfigMountPointId": "dff53e2d-905a-4834-8742-f685ef47cc32",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -3116,7 +3116,7 @@
       "ConfigPlace": "/content/WebApi-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "16a8d5ce-713d-4b05-b802-a199af64a0f4",
+      "HostConfigMountPointId": "dff53e2d-905a-4834-8742-f685ef47cc32",
       "HostConfigPlace": "/content/WebApi-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/template-3pn",
       "BaselineInfo": {},
@@ -3124,7 +3124,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "7957d08e-c24d-43ab-bc30-9fe7018b1e59",
+      "ConfigMountPointId": "85f24851-99cb-4463-b70f-46aed120f289",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Functions",
@@ -3184,7 +3184,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "7957d08e-c24d-43ab-bc30-9fe7018b1e59",
+      "ConfigMountPointId": "85f24851-99cb-4463-b70f-46aed120f289",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Functions",
@@ -3239,7 +3239,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "2d0844a0-62e8-4f63-bd12-fddcefe12286",
+      "ConfigMountPointId": "546a7004-48b7-4e89-a1dd-e610c0008c05",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -3327,7 +3327,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "2d0844a0-62e8-4f63-bd12-fddcefe12286",
+      "ConfigMountPointId": "546a7004-48b7-4e89-a1dd-e610c0008c05",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -3410,7 +3410,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "2d0844a0-62e8-4f63-bd12-fddcefe12286",
+      "ConfigMountPointId": "546a7004-48b7-4e89-a1dd-e610c0008c05",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -3498,7 +3498,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "2d0844a0-62e8-4f63-bd12-fddcefe12286",
+      "ConfigMountPointId": "546a7004-48b7-4e89-a1dd-e610c0008c05",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -3571,7 +3571,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "2d0844a0-62e8-4f63-bd12-fddcefe12286",
+      "ConfigMountPointId": "546a7004-48b7-4e89-a1dd-e610c0008c05",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -3639,7 +3639,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "2d0844a0-62e8-4f63-bd12-fddcefe12286",
+      "ConfigMountPointId": "546a7004-48b7-4e89-a1dd-e610c0008c05",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -3712,7 +3712,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "9575bfcb-ff57-4518-b564-3fcc7273a969",
+      "ConfigMountPointId": "ce8b4973-5667-4dc5-b13d-f2035d0ef192",
       "Author": "Aleksei Kharlov aka halex2005 (codeofclimber.ru)",
       "Classifications": [
         "Test",
@@ -3805,7 +3805,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Aleksei Kharlov aka halex2005 (codeofclimber.ru)",
       "Classifications": [
         "Test",
@@ -3855,7 +3855,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "9575bfcb-ff57-4518-b564-3fcc7273a969",
+      "ConfigMountPointId": "ce8b4973-5667-4dc5-b13d-f2035d0ef192",
       "Author": "Aleksei Kharlov aka halex2005 (codeofclimber.ru)",
       "Classifications": [
         "Test",
@@ -3948,7 +3948,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Aleksei Kharlov aka halex2005 (codeofclimber.ru)",
       "Classifications": [
         "Test",
@@ -3998,7 +3998,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "9575bfcb-ff57-4518-b564-3fcc7273a969",
+      "ConfigMountPointId": "ce8b4973-5667-4dc5-b13d-f2035d0ef192",
       "Author": "Aleksei Kharlov aka halex2005 (codeofclimber.ru)",
       "Classifications": [
         "Test",
@@ -4091,7 +4091,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Aleksei Kharlov aka halex2005 (codeofclimber.ru)",
       "Classifications": [
         "Test",
@@ -4141,7 +4141,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e8bc05aa-53fc-4c56-8d1e-af9efa603c04",
+      "ConfigMountPointId": "9601de3e-257f-45db-b6bd-e9b8a4c82471",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -4215,7 +4215,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e8bc05aa-53fc-4c56-8d1e-af9efa603c04",
+      "ConfigMountPointId": "9601de3e-257f-45db-b6bd-e9b8a4c82471",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -4289,7 +4289,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e8bc05aa-53fc-4c56-8d1e-af9efa603c04",
+      "ConfigMountPointId": "9601de3e-257f-45db-b6bd-e9b8a4c82471",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -4363,7 +4363,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e8bc05aa-53fc-4c56-8d1e-af9efa603c04",
+      "ConfigMountPointId": "9601de3e-257f-45db-b6bd-e9b8a4c82471",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -4437,7 +4437,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e8bc05aa-53fc-4c56-8d1e-af9efa603c04",
+      "ConfigMountPointId": "9601de3e-257f-45db-b6bd-e9b8a4c82471",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -4511,7 +4511,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "e8bc05aa-53fc-4c56-8d1e-af9efa603c04",
+      "ConfigMountPointId": "9601de3e-257f-45db-b6bd-e9b8a4c82471",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -4585,7 +4585,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "accc281e-a41f-40b7-826a-46f7ff9a76e5",
+      "ConfigMountPointId": "6974f59e-8116-4494-b189-ab92daeada13",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -4673,7 +4673,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "accc281e-a41f-40b7-826a-46f7ff9a76e5",
+      "ConfigMountPointId": "6974f59e-8116-4494-b189-ab92daeada13",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -4756,7 +4756,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "accc281e-a41f-40b7-826a-46f7ff9a76e5",
+      "ConfigMountPointId": "6974f59e-8116-4494-b189-ab92daeada13",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -4844,7 +4844,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "accc281e-a41f-40b7-826a-46f7ff9a76e5",
+      "ConfigMountPointId": "6974f59e-8116-4494-b189-ab92daeada13",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -4917,7 +4917,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "accc281e-a41f-40b7-826a-46f7ff9a76e5",
+      "ConfigMountPointId": "6974f59e-8116-4494-b189-ab92daeada13",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -4985,7 +4985,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "accc281e-a41f-40b7-826a-46f7ff9a76e5",
+      "ConfigMountPointId": "6974f59e-8116-4494-b189-ab92daeada13",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -5058,7 +5058,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -5132,7 +5132,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -5206,7 +5206,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -5280,7 +5280,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Aleksei Kharlov aka halex2005 (codeofclimber.ru)",
       "Classifications": [
         "Test",
@@ -5354,7 +5354,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Aleksei Kharlov aka halex2005 (codeofclimber.ru)",
       "Classifications": [
         "Test",
@@ -5428,7 +5428,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Aleksei Kharlov aka halex2005 (codeofclimber.ru)",
       "Classifications": [
         "Test",
@@ -5502,7 +5502,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -5576,7 +5576,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -5650,7 +5650,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "8534e417-f76d-48b6-bc23-04eea983fd76",
+      "ConfigMountPointId": "04a7aebc-0ef5-4f72-9b0b-72017c906f88",
       "Author": "Microsoft",
       "Classifications": [
         "Test",
@@ -5724,7 +5724,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -5896,7 +5896,7 @@
       "ConfigPlace": "/content/BlazorServerWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/BlazorServerWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/aspnetcore/5.0-third-party-notices",
       "BaselineInfo": {},
@@ -5904,7 +5904,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -6087,7 +6087,7 @@
       "ConfigPlace": "/content/ComponentsWebAssembly-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/ComponentsWebAssembly-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/aspnetcore/5.0-third-party-notices",
       "BaselineInfo": {},
@@ -6095,7 +6095,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -6172,7 +6172,7 @@
       "ConfigPlace": "/content/EmptyWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/EmptyWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -6180,7 +6180,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -6257,7 +6257,7 @@
       "ConfigPlace": "/content/EmptyWeb-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/EmptyWeb-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -6265,7 +6265,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -6326,7 +6326,7 @@
       "ConfigPlace": "/content/GrpcService-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/GrpcService-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -6334,7 +6334,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -6396,7 +6396,7 @@
       "ConfigPlace": "/content/RazorClassLibrary-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/RazorClassLibrary-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -6404,7 +6404,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -6584,7 +6584,7 @@
       "ConfigPlace": "/content/RazorPagesWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/RazorPagesWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/aspnetcore/5.0-third-party-notices",
       "BaselineInfo": {},
@@ -6592,7 +6592,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -6770,7 +6770,7 @@
       "ConfigPlace": "/content/StarterWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/StarterWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/aspnetcore/5.0-third-party-notices",
       "BaselineInfo": {},
@@ -6778,7 +6778,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -6863,7 +6863,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -7024,7 +7024,7 @@
       "ConfigPlace": "/content/WebApi-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/WebApi-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7032,7 +7032,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -7109,7 +7109,7 @@
       "ConfigPlace": "/content/WebApi-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/WebApi-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7117,7 +7117,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -7179,7 +7179,7 @@
       "ConfigPlace": "/content/Worker-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/Worker-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7187,7 +7187,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "ConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -7249,7 +7249,7 @@
       "ConfigPlace": "/content/Worker-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "6da7f2b0-59f7-434e-94dd-a9e1d28ad0bc",
+      "HostConfigMountPointId": "a88b8f36-8b02-4ae9-bd52-6c2f6ec629ed",
       "HostConfigPlace": "/content/Worker-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7257,7 +7257,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "a29e2a38-4454-4f5c-a0f9-a72cb9487b15",
+      "ConfigMountPointId": "2302ff24-8b68-4f96-ae73-30827334a2e4",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -7354,7 +7354,7 @@
       "ConfigPlace": "/content/Angular-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "a29e2a38-4454-4f5c-a0f9-a72cb9487b15",
+      "HostConfigMountPointId": "2302ff24-8b68-4f96-ae73-30827334a2e4",
       "HostConfigPlace": "/content/Angular-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7362,7 +7362,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "a29e2a38-4454-4f5c-a0f9-a72cb9487b15",
+      "ConfigMountPointId": "2302ff24-8b68-4f96-ae73-30827334a2e4",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -7459,7 +7459,7 @@
       "ConfigPlace": "/content/React-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "a29e2a38-4454-4f5c-a0f9-a72cb9487b15",
+      "HostConfigMountPointId": "2302ff24-8b68-4f96-ae73-30827334a2e4",
       "HostConfigPlace": "/content/React-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7467,7 +7467,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "a29e2a38-4454-4f5c-a0f9-a72cb9487b15",
+      "ConfigMountPointId": "2302ff24-8b68-4f96-ae73-30827334a2e4",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -7545,7 +7545,7 @@
       "ConfigPlace": "/content/ReactRedux-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "a29e2a38-4454-4f5c-a0f9-a72cb9487b15",
+      "HostConfigMountPointId": "2302ff24-8b68-4f96-ae73-30827334a2e4",
       "HostConfigPlace": "/content/ReactRedux-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7553,7 +7553,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -7704,7 +7704,7 @@
       "ConfigPlace": "/content/BlazorServerWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/BlazorServerWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/aspnetcore/3.1-third-party-notices",
       "BaselineInfo": {},
@@ -7712,7 +7712,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -7789,7 +7789,7 @@
       "ConfigPlace": "/content/EmptyWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/EmptyWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7797,7 +7797,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -7874,7 +7874,7 @@
       "ConfigPlace": "/content/EmptyWeb-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/EmptyWeb-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7882,7 +7882,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -7943,7 +7943,7 @@
       "ConfigPlace": "/content/GrpcService-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/GrpcService-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -7951,7 +7951,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -8014,7 +8014,7 @@
       "ConfigPlace": "/content/RazorClassLibrary-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/RazorClassLibrary-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -8022,7 +8022,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -8181,7 +8181,7 @@
       "ConfigPlace": "/content/RazorPagesWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/RazorPagesWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/aspnetcore/3.1-third-party-notices",
       "BaselineInfo": {},
@@ -8189,7 +8189,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -8346,7 +8346,7 @@
       "ConfigPlace": "/content/StarterWeb-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/StarterWeb-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": "https://aka.ms/aspnetcore/3.1-third-party-notices",
       "BaselineInfo": {},
@@ -8354,7 +8354,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -8439,7 +8439,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -8573,7 +8573,7 @@
       "ConfigPlace": "/content/WebApi-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/WebApi-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -8581,7 +8581,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -8658,7 +8658,7 @@
       "ConfigPlace": "/content/WebApi-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/WebApi-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -8666,7 +8666,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "ConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "Author": "Microsoft",
       "Classifications": [
         "Common",
@@ -8728,7 +8728,7 @@
       "ConfigPlace": "/content/Worker-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "060a9bc6-e1f0-45a5-9193-29d1006ae3b3",
+      "HostConfigMountPointId": "d2a7ab43-af38-4f2a-a8b1-a947a7decb71",
       "HostConfigPlace": "/content/Worker-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -8736,7 +8736,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "debf4267-1465-49ca-ace3-b467f1f8ae28",
+      "ConfigMountPointId": "b4c65ba8-7937-421c-bacd-39efd10d1560",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -8903,7 +8903,7 @@
       "ConfigPlace": "/content/ComponentsWebAssembly-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "debf4267-1465-49ca-ace3-b467f1f8ae28",
+      "HostConfigMountPointId": "b4c65ba8-7937-421c-bacd-39efd10d1560",
       "HostConfigPlace": "/content/ComponentsWebAssembly-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -8911,7 +8911,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "9d6a0525-0dfe-47eb-a0fd-2ff47047f612",
+      "ConfigMountPointId": "1ea346f7-250b-42ab-b32a-9091882f91fd",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -9008,7 +9008,7 @@
       "ConfigPlace": "/content/Angular-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "9d6a0525-0dfe-47eb-a0fd-2ff47047f612",
+      "HostConfigMountPointId": "1ea346f7-250b-42ab-b32a-9091882f91fd",
       "HostConfigPlace": "/content/Angular-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9016,7 +9016,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "9d6a0525-0dfe-47eb-a0fd-2ff47047f612",
+      "ConfigMountPointId": "1ea346f7-250b-42ab-b32a-9091882f91fd",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -9113,7 +9113,7 @@
       "ConfigPlace": "/content/React-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "9d6a0525-0dfe-47eb-a0fd-2ff47047f612",
+      "HostConfigMountPointId": "1ea346f7-250b-42ab-b32a-9091882f91fd",
       "HostConfigPlace": "/content/React-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9121,7 +9121,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "9d6a0525-0dfe-47eb-a0fd-2ff47047f612",
+      "ConfigMountPointId": "1ea346f7-250b-42ab-b32a-9091882f91fd",
       "Author": "Microsoft",
       "Classifications": [
         "Web",
@@ -9199,7 +9199,7 @@
       "ConfigPlace": "/content/ReactRedux-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "9d6a0525-0dfe-47eb-a0fd-2ff47047f612",
+      "HostConfigMountPointId": "1ea346f7-250b-42ab-b32a-9091882f91fd",
       "HostConfigPlace": "/content/ReactRedux-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9207,7 +9207,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9265,7 +9265,7 @@
       "ConfigPlace": "/content/QueueTrigger-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/QueueTrigger-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9273,7 +9273,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9330,7 +9330,7 @@
       "ConfigPlace": "/content/HttpTrigger-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/HttpTrigger-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9338,7 +9338,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9396,7 +9396,7 @@
       "ConfigPlace": "/content/BlobTrigger-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/BlobTrigger-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9404,7 +9404,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9457,7 +9457,7 @@
       "ConfigPlace": "/content/TimerTrigger-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/TimerTrigger-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9465,7 +9465,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9512,7 +9512,7 @@
       "ConfigPlace": "/content/DurableFunctionsOrchestration-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/DurableFunctionsOrchestration-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9520,7 +9520,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9588,7 +9588,7 @@
       "ConfigPlace": "/content/SendGrid-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/SendGrid-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9596,7 +9596,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9654,7 +9654,7 @@
       "ConfigPlace": "/content/EventHubTrigger-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/EventHubTrigger-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9662,7 +9662,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9721,7 +9721,7 @@
       "ConfigPlace": "/content/ServiceBusQueueTrigger-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/ServiceBusQueueTrigger-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9729,7 +9729,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9793,7 +9793,7 @@
       "ConfigPlace": "/content/ServiceBusTopicTrigger-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/ServiceBusTopicTrigger-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9801,7 +9801,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9849,7 +9849,7 @@
       "ConfigPlace": "/content/EventGridTrigger-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/EventGridTrigger-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9857,7 +9857,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9915,7 +9915,7 @@
       "ConfigPlace": "/content/IotHubTrigger-CSharpVS/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/IotHubTrigger-CSharpVS/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9923,7 +9923,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -9986,7 +9986,7 @@
       "ConfigPlace": "/content/CosmosDBTrigger-CSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/CosmosDBTrigger-CSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -9994,7 +9994,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function"
@@ -10049,7 +10049,7 @@
       "ConfigPlace": "/content/HttpTrigger-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/HttpTrigger-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -10057,7 +10057,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function"
@@ -10113,7 +10113,7 @@
       "ConfigPlace": "/content/BlobTrigger-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/BlobTrigger-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -10121,7 +10121,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function"
@@ -10182,7 +10182,7 @@
       "ConfigPlace": "/content/CosmosDBTrigger-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/CosmosDBTrigger-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -10190,7 +10190,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function",
@@ -10248,7 +10248,7 @@
       "ConfigPlace": "/content/EventHubTrigger-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/EventHubTrigger-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},
@@ -10256,7 +10256,7 @@
       "ConfigTimestampUtc": null
     },
     {
-      "ConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "ConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "Author": "Microsoft",
       "Classifications": [
         "Azure Function"
@@ -10307,7 +10307,7 @@
       "ConfigPlace": "/content/TimerTrigger-FSharp/.template.config/template.json",
       "LocaleConfigMountPointId": "00000000-0000-0000-0000-000000000000",
       "LocaleConfigPlace": null,
-      "HostConfigMountPointId": "b3164dba-43fb-48ec-99aa-cf6bc06521d4",
+      "HostConfigMountPointId": "34d23356-db5b-46d8-b6b3-dd53616ca96e",
       "HostConfigPlace": "/content/TimerTrigger-FSharp/.template.config/vs-2017.3.host.json",
       "ThirdPartyNotices": null,
       "BaselineInfo": {},

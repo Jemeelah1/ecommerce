@@ -11,6 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:qa
+|2,0,1656943946,,"qa"
+:wq
+|2,0,1653539808,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -21,16 +25,292 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""0	CHAR	0
+	s
+|3,1,0,0,1,0,1656944053,"s"
 
 # File marks:
-'0  1  0  ~/Projects/AccountTellerApplication/.git/COMMIT_EDITMSG
-|4,48,1,0,1636022592,"~/Projects/AccountTellerApplication/.git/COMMIT_EDITMSG"
+'0  10  0  ~/Desktop/ALAT-WEB/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,48,10,0,1666089340,"~/Desktop/ALAT-WEB/ALATWeb4.0/.git/COMMIT_EDITMSG"
+'1  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,49,6,0,1661518702,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+'2  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,50,6,0,1661342904,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+'3  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,51,1,0,1661342606,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+'4  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,52,1,0,1661342606,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+'5  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,53,1,0,1661342606,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+'6  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,54,1,0,1661342606,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+'7  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,55,6,0,1660658868,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+'8  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,56,6,0,1660658868,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+'9  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,57,6,0,1660658868,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
 
 # Jumplist (newest first):
--'  1  0  ~/Projects/AccountTellerApplication/.git/COMMIT_EDITMSG
-|4,39,1,0,1636022592,"~/Projects/AccountTellerApplication/.git/COMMIT_EDITMSG"
+-'  10  0  ~/Desktop/ALAT-WEB/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,10,0,1666089340,"~/Desktop/ALAT-WEB/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Desktop/ALAT-WEB/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,1,0,1666088985,"~/Desktop/ALAT-WEB/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1661518702,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1661518702,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1661518596,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1661518596,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1661342904,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1661342904,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1661342842,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1661342842,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1661342606,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1661342606,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1660658868,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1660658868,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1660658868,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1660658868,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1660658712,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1660658712,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1660557084,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1660557084,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1660133645,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1660133645,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1660011708,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1660011708,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1658938303,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1658938303,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658832030,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1658779230,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1658779230,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658331768,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1658331768,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1658242847,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1658242847,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1657836468,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  6  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,6,0,1657836468,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1657831711,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  1  0  ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+|4,39,1,0,1657831711,"~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
+-'  36  0  ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+|4,39,36,0,1656945742,"~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/Desktop/ALAT-WEB/ALATWeb4.0/.git/COMMIT_EDITMSG
+	*	1666089026	0
+	"	10	0
+
+> ~/Projects/ALAT/ALATWeb4.0/.git/MERGE_MSG
+	*	1661518700	0
+	"	6	0
+
+> ~/Projects/ALAT/ALATWeb4.0/.git/COMMIT_EDITMSG
+	*	1656945738	0
+	"	36	0
+	^	36	105
+	.	36	104
+	+	36	104
+
+> ~/.git/COMMIT_EDITMSG
+	*	1653539805	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	11	0
+	+	1	5
+
+> ~/zero_day/README.md
+	*	1653539427	0
+	"	1	33
+	^	1	34
+	.	1	33
+	+	1	33
+
+> ~/Desktop/final-wema-project/.git/MERGE_MSG
+	*	1640953860	0
+	"	4	12
+	^	4	13
+	.	4	12
+	+	4	12
+	+	1	0
+	+	4	10
+	+	5	0
+	+	4	12
+
+> ~/Wema-group/.git/COMMIT_EDITMSG
+	*	1640338819	0
+	"	14	15
+	^	14	15
+	.	14	14
+	+	14	14
+
+> ~/Wema-group/.git/MERGE_MSG
+	*	1640338719	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	29
+	+	8	0
+	+	2	0
 
 > ~/Projects/AccountTellerApplication/.git/COMMIT_EDITMSG
 	*	1636022561	0

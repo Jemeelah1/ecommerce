@@ -1,9 +1,19 @@
 [user]
-	name = ibrahim dotto jemila
-	email = jemiladotto@gmail.com
+	name = Jemila Ibrahim
+	email = jemila.ibrahim@wemabank.com
 [init]
 	defaultBranch = main
 [color]
 	ui = auto
 [push]
 	default = current
+[core]
+	excludesfile = /Users/wemabank/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[commit]
+	template = /Users/wemabank/.stCommitMsg
